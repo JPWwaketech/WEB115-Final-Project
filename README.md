@@ -1,7 +1,7 @@
 # WEB115-Final-Project-Space Colony Problems 
 # Contributors: 
-Tanvir Virdi: Documentation and Story Theme
-James Watson: Story Flowchart and Story Theme
+- [ ] Tanvir: Documentation and Story.
+- [ ] James: Story FlowChart and Theme.
 # Application Overview: 
 A colony on Mars is losing power. We must decide on how to get resources to gain back power for the planet  
 # Story Flowchart: Space Colony Crisis:
