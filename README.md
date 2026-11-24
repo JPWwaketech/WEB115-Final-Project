@@ -1,8 +1,7 @@
 # WEB115-Final-Project- Space Colony Problems 
 # Tanvir Virdi and James Watson
-A colony on Mars is losing power. We must decide on how to get resources to gain back power for the planet 
-# Story Flowchart: 
-## Story Flowchart: Space Colony Crisis
+A colony on Mars is losing power. We must decide on how to get resources to gain back power for the planet  
+# Story Flowchart: Space Colony Crisis
 ```
 flowchart TD
 A[Wake Up on Mars Colony] --> B[Emergency Alert: Colony Losing Power]
